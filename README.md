@@ -13,6 +13,7 @@ If you are developing a production application, we recommend using TypeScript an
 
 
 Для запуска проекта необходимо:
+
 0) Создайте папку my-shop, скопируйте туда все файлы
 1) зайдите в папку my-shop
 2) выполните в терминале команду npm i   
